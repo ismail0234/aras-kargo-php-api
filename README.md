@@ -198,4 +198,12 @@ $aras->getCargoInvoice("AAA201400040405", 'fatura');
  *
  */
 $aras->getCargoCountToday();
+
+/**
+ *
+ * @description Kampanya kodu bilgilerini döner
+ * @return array 
+ *
+ */
+$aras->getCampaignCode("KAMPANYAKODU");
 ```

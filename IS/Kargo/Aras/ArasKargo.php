@@ -259,4 +259,16 @@ Class ArasKargo extends ArasKargoRequest
 		return $this->sendRequest('json', 31);
 	}
 
+	/**
+	 *
+	 * @description Kampanya kodu bilgilerini döner
+	 * @return array 
+	 *
+	 */
+	public function getCampaignCode($campaignCode)
+	{
+
+		return $this->sendRequest('json', 36, $this->requestOptionsFormat(array('CampaignCode' => $campaignCode)));
+	}
+
 }

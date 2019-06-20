@@ -93,6 +93,10 @@ Class ArasKargoFormats
 			$returnArray['InvoiceSerialNumber'] = $data['InvoiceSerialNumber'];
 		}
 
+		if (isset($data['CampaignCode'])) {
+			$returnArray['CampaignCode'] = $data['CampaignCode'];
+		}
+
 		if (isset($data['Barcode'])) {
 			$returnArray['Barcode'] = $data['Barcode'];
 		}
