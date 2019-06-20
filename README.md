@@ -2,6 +2,13 @@
 
 Bu api aras kargo müşterileri için websitelerinden kargo durumlarını görüntüleyebilmek ve raporlayabilmeleri için yazılmıştır.
 
+### Change Log
+- See [ChangeLog](https://github.com/ismail0234/aras-kargo-php-api/blob/master/CHANGELOG.md)
+
+### License
+- See [ChangeLog](https://github.com/ismail0234/aras-kargo-php-api/blob/master/LICENSE)
+
+
 ## Kurulum
 
 Kurulum için composer kullanmanız gerekmektedir. Composer'a sahip değilseniz windows için [Buradan](https://getcomposer.org/) indirebilirsiniz.
