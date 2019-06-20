@@ -78,6 +78,10 @@ Class ArasKargoRequest extends ArasKargoFormats
 					return false;
 				}
 
+				if ($response->GetQueryJSONResult == null) {
+					return array();
+				}
+
 				$response = json_decode($response->GetQueryJSONResult);
 				if ($response->QueryResult == null) {
 					return array();
