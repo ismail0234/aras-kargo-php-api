@@ -126,7 +126,7 @@ Class ArasKargo extends ArasKargoRequest
 	public function getCargoMovementInformation($trackingNumber)
 	{
 
-		return $this->sendRequest('json', 6, $this->requestOptionsFormat(array('TrackingNumber' => $trackingNumber)));
+		return $this->sendRequest('json', 9, $this->requestOptionsFormat(array('TrackingNumber' => $trackingNumber)));
 	}
 
 	/**
@@ -269,6 +269,12 @@ Class ArasKargo extends ArasKargoRequest
 	{
 
 		return $this->sendRequest('json', 36, $this->requestOptionsFormat(array('CampaignCode' => $campaignCode)));
+	}
+
+	public function test($campaignCode)
+	{
+
+		return $this->sendRequest('json', 14, $this->requestOptionsFormat(array('TrackingNumber' => $campaignCode)));
 	}
 
 }
