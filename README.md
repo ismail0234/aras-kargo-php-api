@@ -1,3 +1,7 @@
+[![Latest Stable Version](https://poser.pugx.org/ismail0234/aras-kargo-php-api/v/stable)](https://packagist.org/packages/ismail0234/aras-kargo-php-api)
+[![Total Downloads](https://poser.pugx.org/ismail0234/aras-kargo-php-api/downloads)](https://packagist.org/packages/ismail0234/aras-kargo-php-api)
+[![License](https://poser.pugx.org/ismail0234/aras-kargo-php-api/license)](https://packagist.org/packages/ismail0234/aras-kargo-php-api)
+
 # Aras Kargo PHP Api
 
 Bu api aras kargo müşterileri için websitelerinden kargo durumlarını görüntüleyebilmek ve raporlayabilmeleri için yazılmıştır.
