@@ -12,7 +12,7 @@ composer require ismail0234/aras-kargo-php-api
 
 ```
 
-## Autoload ile başlatma
+## Kullanım
 
 ```php
 
@@ -24,15 +24,9 @@ $aras = new ArasKargo('XML Servisi Kullanıcı Adı', 'XML Servisi Şifreniz', '
 
 ```
 
-### Kullanım
+### Fonksiyonlar
 
 ```php
-
-include "vendor/autoload.php";
-
-use IS\Kargo\Aras\ArasKargo;
-
-$aras = new ArasKargo('XML Servisi Kullanıcı Adı', 'XML Servisi Şifreniz', 'Müşteri Kodunuz');
 
 /**
  *
@@ -187,7 +181,7 @@ $aras->getCargoRealInformation(9093773579276);
 /**
  *
  * @description Fatura Bilgilerini Döner
- * 				Normal Fatura ve E-Fatura araması yapılabilir.
+ *				Normal Fatura ve E-Fatura araması yapılabilir.
  *				Fatura No ve Fatura Tipi parametre olarak geçilir. 
  *				Normal fatura için 'fatura', EFatura için 'efatura' parametresi geçilir.
  * @param string Fatura Numarası
