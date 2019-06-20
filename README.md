@@ -34,7 +34,7 @@ $aras = new ArasKargo('XML Servisi Kullanıcı Adı', 'XML Servisi Şifreniz', '
  * @param string Kargo Numarası
  *
  */
-$aras->getCargoInformation(9093765601744);
+$aras->getCargoInformation(9023745602734);
 
 /**
  *
@@ -104,7 +104,7 @@ $aras->getCargoSenderReturnDate(date('d-m-Y'));
  * @param int Kargo Numarası
  *
  */
-$aras->getCargoMovementInformation(9093765601744);
+$aras->getCargoMovementInformation(9023745602734);
 
 /**
  *
