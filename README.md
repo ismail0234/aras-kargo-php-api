@@ -190,4 +190,12 @@ $aras->getCargoRealInformation(9093773579276);
  *
  */
 $aras->getCargoInvoice("AAA201400040405", 'fatura');
+
+/**
+ *
+ * @description Aras kargonun bugün teslim edilen kargo sayısını döner
+ * @return array 
+ *
+ */
+$aras->getCargoCountToday();
 ```

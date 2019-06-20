@@ -246,5 +246,20 @@ Class ArasKargo extends ArasKargoRequest
 
 		return $this->sendRequest('json', 24, $this->requestOptionsFormat(array('Barcode' => $barcode)));
 	}
+	/**
+	 *
+	 * @description Kargo Durumuyla ilgili genel bilgi verir
+	 * 				Eğer kargo geri dönüşlü ise bu dataset dolu gelir ve geri dönüş teslimat bilgilerini içerir 
+	 *				Eğer kargo Geri Dönüşlü değilse bu dataset dolu gelir ve kargo teslimat bilgilerini içerir
+	 *				Kargonun devir bilgilerini içerir.
+	 *				Kargo Yönlendirme ve İade Hareketleri ve Nedenlerini içerir
+	 * 			    Geri Dönüşlü Kargo Bilgilerini içerir
+	 * @return array 
+	 *
+	 */
+	public function test($trackingNumber)
+	{
 
+		return $this->sendRequest('json', 31);
+	}
 }
