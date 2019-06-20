@@ -15,5 +15,6 @@
         "psr-4": {
             "IS\\Kargo\\Aras\\": "IS/Kargo/Aras"
         }
-    }
+    },
+    "minimum-stability": "stable"
 }
