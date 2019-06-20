@@ -187,7 +187,7 @@ $aras->getCargoRealInformation(9093773579276);
 /**
  *
  * @description Fatura Bilgilerini Döner
- * 				Normal Fatura ve E-Fatura araması yapılabilir.
+ *				Normal Fatura ve E-Fatura araması yapılabilir.
  *				Fatura No ve Fatura Tipi parametre olarak geçilir. 
  *				Normal fatura için 'fatura', EFatura için 'efatura' parametresi geçilir.
  * @param string Fatura Numarası
