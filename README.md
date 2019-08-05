@@ -2,9 +2,9 @@
 [![Total Downloads](https://poser.pugx.org/ismail0234/aras-kargo-php-api/downloads)](https://packagist.org/packages/ismail0234/aras-kargo-php-api)
 [![License](https://poser.pugx.org/ismail0234/aras-kargo-php-api/license)](https://packagist.org/packages/ismail0234/aras-kargo-php-api)
 
-# Aras Kargo PHP Api
+# Aras Kargo PHP API
 
-Bu api aras kargo müşterileri için websitelerinden kargo durumlarını görüntüleyebilmek ve raporlayabilmeleri için yazılmıştır.
+Bu API Aras Kargo müşterileri için websitelerinden kargo durumlarını görüntüleyebilmek ve raporlayabilmek için yazılmıştır.
 
 ### Change Log
 - See [ChangeLog](https://github.com/ismail0234/aras-kargo-php-api/blob/master/CHANGELOG.md)
@@ -15,7 +15,7 @@ Bu api aras kargo müşterileri için websitelerinden kargo durumlarını görü
 
 ## Kurulum
 
-Kurulum için composer kullanmanız gerekmektedir. Composer'a sahip değilseniz windows için [Buradan](https://getcomposer.org/) indirebilirsiniz.
+Kurulum için composer kullanmanız gerekmektedir. Composer'e sahip değilseniz Windows için [buradan](https://getcomposer.org/) indirebilirsiniz.
 
 ```php
 
