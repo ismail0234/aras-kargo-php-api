@@ -8,7 +8,7 @@ Bu API Aras Kargo müşterileri için websitelerinden kargo durumlarını görü
 
 ## Bağış Yapın
 
-Yaptığım işlerden memnun iseniz, daha iyi ve daha iş çıkartmam için beni destekleyebilirsiniz;
+Yaptığım işlerden memnun iseniz, daha iyi ve daha çok iş çıkartmam için beni destekleyebilirsiniz;
 
 * 10 TL Bağış => https://shipy.link/y/E92jtcP1
 * 20 TL Bağış => https://shipy.link/y/SWCJ5bFO
