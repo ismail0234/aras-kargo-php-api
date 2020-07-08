@@ -6,6 +6,15 @@
 
 Bu API Aras Kargo müşterileri için websitelerinden kargo durumlarını görüntüleyebilmek ve raporlayabilmek için yazılmıştır.
 
+## Bağış Yapın
+
+Yaptığım işlerden memnun iseniz, daha iyi ve daha iş çıkartmam için beni destekleyebilirsiniz;
+
+* 10 TL Bağış => https://shipy.link/y/E92jtcP1
+* 20 TL Bağış => https://shipy.link/y/SWCJ5bFO
+* 50 TL Bağış => https://shipy.link/y/p2kwrO6i
+* 100 TL Bağış => https://shipy.link/y/6QJDuAoL
+
 ### Change Log
 - See [ChangeLog](https://github.com/ismail0234/aras-kargo-php-api/blob/master/CHANGELOG.md)
 
