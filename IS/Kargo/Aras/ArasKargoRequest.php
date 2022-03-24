@@ -10,7 +10,7 @@ Class ArasKargoRequest extends ArasKargoFormats
 	 * @description Aras Kargo SOAP Servis Canlı Ortam URL
 	 *
 	 */
-	protected $realUrl = 'http://customerservices.araskargo.com.tr/ArasCargoCustomerIntegrationService/ArasCargoIntegrationService.svc?wsdl';
+	protected $realUrl = 'https://customerservices.araskargo.com.tr/ArasCargoCustomerIntegrationService/ArasCargoIntegrationService.svc?wsdl';
 
 	/**
 	 *
