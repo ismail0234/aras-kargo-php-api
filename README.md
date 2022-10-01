@@ -10,9 +10,6 @@ Bu API Aras Kargo müşterileri için websitelerinden kargo durumlarını görü
 
 Yaptığım işlerden memnun iseniz, daha iyi ve daha çok iş çıkartmam için beni destekleyebilirsiniz;
 
-## Discord
-
-Discord sunucumuza katılmak isterseniz hepinizi bekleriz; https://discord.gg/botbenson
 
 ### Change Log
 - See [ChangeLog](https://github.com/ismail0234/aras-kargo-php-api/blob/master/CHANGELOG.md)
