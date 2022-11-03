@@ -6,11 +6,6 @@
 
 Bu API Aras Kargo müşterileri için websitelerinden kargo durumlarını görüntüleyebilmek ve raporlayabilmek için yazılmıştır.
 
-## Bağış Yapın
-
-Yaptığım işlerden memnun iseniz, daha iyi ve daha çok iş çıkartmam için beni destekleyebilirsiniz;
-
-
 ### Change Log
 - See [ChangeLog](https://github.com/ismail0234/aras-kargo-php-api/blob/master/CHANGELOG.md)
 
